@@ -1,0 +1,45 @@
+/home/nuriddin/Desktop/MyApp/temp/bin/Debug/net6.0/temp
+/home/nuriddin/Desktop/MyApp/temp/bin/Debug/net6.0/temp.deps.json
+/home/nuriddin/Desktop/MyApp/temp/bin/Debug/net6.0/temp.runtimeconfig.json
+/home/nuriddin/Desktop/MyApp/temp/bin/Debug/net6.0/temp.dll
+/home/nuriddin/Desktop/MyApp/temp/bin/Debug/net6.0/temp.pdb
+/home/nuriddin/Desktop/MyApp/temp/obj/Debug/net6.0/temp.csproj.AssemblyReference.cache
+/home/nuriddin/Desktop/MyApp/temp/obj/Debug/net6.0/temp.GeneratedMSBuildEditorConfig.editorconfig
+/home/nuriddin/Desktop/MyApp/temp/obj/Debug/net6.0/temp.AssemblyInfoInputs.cache
+/home/nuriddin/Desktop/MyApp/temp/obj/Debug/net6.0/temp.AssemblyInfo.cs
+/home/nuriddin/Desktop/MyApp/temp/obj/Debug/net6.0/temp.csproj.CoreCompileInputs.cache
+/home/nuriddin/Desktop/MyApp/temp/obj/Debug/net6.0/temp.dll
+/home/nuriddin/Desktop/MyApp/temp/obj/Debug/net6.0/refint/temp.dll
+/home/nuriddin/Desktop/MyApp/temp/obj/Debug/net6.0/temp.pdb
+/home/nuriddin/Desktop/MyApp/temp/obj/Debug/net6.0/temp.genruntimeconfig.cache
+/home/nuriddin/Desktop/MyApp/temp/obj/Debug/net6.0/ref/temp.dll
+/home/nuriddin/Desktop/MyApp/Alarm task(async event)/obj/Debug/net6.0/temp.csproj.AssemblyReference.cache
+/home/nuriddin/Desktop/MyApp/Alarm task(async event)/obj/Debug/net6.0/temp.GeneratedMSBuildEditorConfig.editorconfig
+/home/nuriddin/Desktop/MyApp/Alarm task(async event)/obj/Debug/net6.0/temp.AssemblyInfoInputs.cache
+/home/nuriddin/Desktop/MyApp/Alarm task(async event)/obj/Debug/net6.0/temp.AssemblyInfo.cs
+/home/nuriddin/Desktop/MyApp/Alarm task(async event)/obj/Debug/net6.0/temp.csproj.CoreCompileInputs.cache
+/home/nuriddin/Desktop/MyApp/Alarm task(async event)/obj/Debug/net6.0/temp.dll
+/home/nuriddin/Desktop/MyApp/Alarm task(async event)/obj/Debug/net6.0/refint/temp.dll
+/home/nuriddin/Desktop/MyApp/Alarm task(async event)/obj/Debug/net6.0/temp.pdb
+/home/nuriddin/Desktop/MyApp/Alarm task(async event)/bin/Debug/net6.0/temp
+/home/nuriddin/Desktop/MyApp/Alarm task(async event)/bin/Debug/net6.0/temp.deps.json
+/home/nuriddin/Desktop/MyApp/Alarm task(async event)/bin/Debug/net6.0/temp.runtimeconfig.json
+/home/nuriddin/Desktop/MyApp/Alarm task(async event)/bin/Debug/net6.0/temp.dll
+/home/nuriddin/Desktop/MyApp/Alarm task(async event)/bin/Debug/net6.0/temp.pdb
+/home/nuriddin/Desktop/MyApp/Alarm task(async event)/obj/Debug/net6.0/temp.genruntimeconfig.cache
+/home/nuriddin/Desktop/MyApp/Alarm task(async event)/obj/Debug/net6.0/ref/temp.dll
+/home/nuriddin/Desktop/MyApp/QuranDownloader/bin/Debug/net6.0/temp
+/home/nuriddin/Desktop/MyApp/QuranDownloader/bin/Debug/net6.0/temp.deps.json
+/home/nuriddin/Desktop/MyApp/QuranDownloader/bin/Debug/net6.0/temp.runtimeconfig.json
+/home/nuriddin/Desktop/MyApp/QuranDownloader/bin/Debug/net6.0/temp.dll
+/home/nuriddin/Desktop/MyApp/QuranDownloader/bin/Debug/net6.0/temp.pdb
+/home/nuriddin/Desktop/MyApp/QuranDownloader/obj/Debug/net6.0/temp.csproj.AssemblyReference.cache
+/home/nuriddin/Desktop/MyApp/QuranDownloader/obj/Debug/net6.0/temp.GeneratedMSBuildEditorConfig.editorconfig
+/home/nuriddin/Desktop/MyApp/QuranDownloader/obj/Debug/net6.0/temp.AssemblyInfoInputs.cache
+/home/nuriddin/Desktop/MyApp/QuranDownloader/obj/Debug/net6.0/temp.AssemblyInfo.cs
+/home/nuriddin/Desktop/MyApp/QuranDownloader/obj/Debug/net6.0/temp.csproj.CoreCompileInputs.cache
+/home/nuriddin/Desktop/MyApp/QuranDownloader/obj/Debug/net6.0/temp.dll
+/home/nuriddin/Desktop/MyApp/QuranDownloader/obj/Debug/net6.0/refint/temp.dll
+/home/nuriddin/Desktop/MyApp/QuranDownloader/obj/Debug/net6.0/temp.pdb
+/home/nuriddin/Desktop/MyApp/QuranDownloader/obj/Debug/net6.0/temp.genruntimeconfig.cache
+/home/nuriddin/Desktop/MyApp/QuranDownloader/obj/Debug/net6.0/ref/temp.dll
